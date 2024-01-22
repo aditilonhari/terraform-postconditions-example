@@ -16,3 +16,5 @@ resource "random_pet" "always_new" {
   }
   length = var.pet_name_length
 }
+
+# pushing new commit to create a tag
